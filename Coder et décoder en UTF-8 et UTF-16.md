@@ -12,7 +12,7 @@ Nous avons exprimé les algorithmes pour le codage et le décodage en utilisant 
 int a = 987;    // entier en base 10
 int b = 0765    // les entiers en base 8 commencent par 0
 int c = 0xFED   // les entiers en base 16 commencent par 0x ou 0X
-int d = 0b1010  // les enttiers en base 2 commencent par 0b (depuis Java 7.0)
+int d = 0b1010  // les entiers en base 2 commencent par 0b (depuis Java 7.0)
 ~~~
 
 Si vous connaissez les opérateurs bit-à-bit Java (décalage et masquage), vous êtes libres de les utiliser. Néanmoins, les opérations arithmétiques (multiplication, division et modulo) sont largement suffisantes pour ce TD et vous êtes encouragés à faire l'effort intellectuel de vous en servir.
